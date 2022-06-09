@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Chayut
+<h1 align="center">### Hi there 👋 I'm Chayut</h1>
   <hr/>
 <img src="https://komarev.com/ghpvc/?username=chayut27" style="max-width: 100%;">
   
@@ -18,7 +18,12 @@
   <h5>🌱 I’m currently learning ...</h5>
   <div>
   
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40">
+  
   </div>
 
 <div align="center">
