@@ -10,6 +10,8 @@ HTML CSS BOOTSTRAP JAVASCRIPT REACT
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+<img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white">
 <!--
 **chayut27/chayut27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
