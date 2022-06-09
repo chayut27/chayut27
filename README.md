@@ -4,7 +4,7 @@ I’m currently working on ...
 Frontend 
 HTML CSS BOOTSTRAP JAVASCRIPT REACT
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40">
   </div>
 
 
