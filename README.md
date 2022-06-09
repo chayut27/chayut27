@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Chayut
+
+I’m currently working on ...
+Frontend 
+HTML CSS BOOTSTRAP JAVASCRIPT REACT
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  </div>
+
 
 <!--
 **chayut27/chayut27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
