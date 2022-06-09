@@ -1,36 +1,54 @@
-<h1 align="center">### Hi there 👋 I'm Chayut</h1>
-  <hr/>
-<img src="https://komarev.com/ghpvc/?username=chayut27" style="max-width: 100%;">
-  
-<h5>🔭 I’m currently working on ...</h5>
-
-<h6>Frontend Developer</h6>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40">
-  </div>
+🔴🟡🟢
+
+<br>
+<h1 align="center">### Hi there 👋 I'm Chayut</h1>
   
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chayut27" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/Pepyn0?tab=followers">
+    <img src="https://img.shields.io/github/followers/chayut27?style=social" alt="Followers" />
+  </a>
+</p>
+<hr/>
+  
+  <h5>🔭 I’m currently working on ...</h5>
+
+  <h6>Frontend Developer</h6>
+  
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+
   <hr/>
   
   <h5>🌱 I’m currently learning ...</h5>
-  <div>
   
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40">
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
+  ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)&nbsp;
+  ![TailwindCss](https://img.shields.io/badge/-TailwindCss-0D1117?style=flat&logo=tailwindcss)&nbsp;
+  ![Go](https://img.shields.io/badge/-Go-0D1117?style=flat&logo=go)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=MongoDB)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
   
-  </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-<img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <hr/>
+  
+  <h5>🌱 My Skills  ...</h5>
+  
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+  ![Jquery](https://img.shields.io/badge/-Jquery-0D1117?style=flat&logo=jquery)&nbsp;
+  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php)&nbsp;
+  ![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=flat&logo=mysql)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
 <!--
 **chayut27/chayut27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
