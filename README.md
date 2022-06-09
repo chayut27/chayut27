@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Chayut
   <hr/>
 <h5>I’m currently working on ...</h5>
-![](https://komarev.com/ghpvc/?username=chayut27&color=blue)
+<img src="![](https://komarev.com/ghpvc/?username=chayut27&color=blue)">
 
 <h6>Frontend Developer</h6>
 <div>
