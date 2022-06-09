@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Chayut
   <hr/>
-<h5>I’m currently working on ...</h5>
 <img src="https://komarev.com/ghpvc/?username=chayut27" style="max-width: 100%;">
+  
+<h5>🔭 I’m currently working on ...</h5>
 
 <h6>Frontend Developer</h6>
 <div>
@@ -13,6 +14,12 @@
   </div>
   
   <hr/>
+  
+  <h5>🌱 I’m currently learning ...</h5>
+  <div>
+  
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
+  </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
