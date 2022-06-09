@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Chayut
   <hr/>
 <h5>I’m currently working on ...</h5>
-Frontend Developer
+<h6>Frontend Developer</h6>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">
